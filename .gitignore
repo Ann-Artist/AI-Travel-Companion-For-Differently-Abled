@@ -1,0 +1,6 @@
+coco2017/ 
+__pycache__/ 
+*.pyc 
+venv/ 
+*.csv 
+*.zip 
